@@ -46,7 +46,7 @@ int Digit = new int();
 while (count >= middle && st < middle)
 {
 
-    Digit = (newNumber % 10);
+    Digit = newNumber % 10;
 
     result = result + (Digit * Math.Pow(10, count - 1) + Digit * Math.Pow(10, st));
     count = count - 1;
