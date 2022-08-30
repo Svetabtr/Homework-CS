@@ -57,8 +57,10 @@ int[,] Multiplication(int[,] arrayA, int[,] arrayB)
     {
         for (int l = 0; l < arrayA.GetLength(1); l++)
         {
-            for (int k = 0; k < 2; k++)
+            for (int k = 0; k < 2; k++)  // фиксируем строку/столбец и перемножаем элементы фиксированный строки A на фиксированный столбец B
+            {
                 arrayC[m, l] += arrayA[m, k] * arrayB[k, l];
+            }
         }
     }
     return arrayC;
