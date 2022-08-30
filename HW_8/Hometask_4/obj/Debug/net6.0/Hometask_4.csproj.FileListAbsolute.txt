@@ -1,0 +1,15 @@
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.csproj.AssemblyReference.cache
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.AssemblyInfoInputs.cache
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.AssemblyInfo.cs
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\bin\Debug\net6.0\Hometask_4.exe
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\bin\Debug\net6.0\Hometask_4.deps.json
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\bin\Debug\net6.0\Hometask_4.runtimeconfig.json
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\bin\Debug\net6.0\Hometask_4.dll
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\bin\Debug\net6.0\Hometask_4.pdb
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.dll
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\refint\Hometask_4.dll
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.pdb
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\Hometask_4.genruntimeconfig.cache
+C:\Users\Foxy\Documents\Обучение\3_Программирование СS\Homework C#\HW_8\Hometask_4\obj\Debug\net6.0\ref\Hometask_4.dll
