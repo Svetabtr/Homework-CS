@@ -12,6 +12,16 @@ int numberM = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число N: ");
 int numberN = Convert.ToInt32(Console.ReadLine());
 
+if (numberM<numberN)
+{
+Console.WriteLine(Number(numberM, numberN));
+}
+else
+{
+    Console.WriteLine(Number2(numberM, numberN));
+}
+
+
 string Number(int m, int n)
 {
     if (n >= m)
@@ -23,4 +33,16 @@ string Number(int m, int n)
         return string.Empty;
     }
 }
-Console.WriteLine(Number(numberM, numberN));
+
+
+string Number2(int m, int n)
+{
+    if (m >= n)
+    {
+        return $"{m} " + Number2(m-1,n);
+    }
+    else
+    {
+        return string.Empty;
+    }
+}
